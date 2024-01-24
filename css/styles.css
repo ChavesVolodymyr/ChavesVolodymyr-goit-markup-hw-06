@@ -276,7 +276,7 @@ height: auto;
   width: calc((100% - 72px) / 3);
   flex-direction: column;
   align-items: flex-start;
-  gap: 8px; */
+  gap: 8px; 
 }
 
 .titel-text {
