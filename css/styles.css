@@ -199,7 +199,7 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-margin-left: 0 auto;
+
 }
 
 .section-banner {
@@ -1059,8 +1059,9 @@ gap: 64px 24px;
   }
 /* !!!!! MAIN !!!!! */
     .hero {
-      max-width: 1440px;
+      
       height: 600px;
+      margin: 0 auto;
     padding-top: 188px;
       padding-bottom: 188px;
       background-image: linear-gradient(rgba(46, 47, 66, 0.7),
